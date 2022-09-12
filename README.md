@@ -9,7 +9,7 @@ Step2: Enter the output name: (Ex: output_gene)
 Step3: Output the file to the specific directory
 
 
-Screesnshot:
+# Screesnshots:
 
 Step1: SNP list prepare
 
